@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Estacionamiento Asistido</string>
+    <string name="Distancia">Distancia</string>
+    <string name="ejemploDistancia">200 cm</string>
+    <string name="timer">00:00</string>
+    <string name="escanear">Escanear</string>
+    <string name="detener">Detener</string>
+    <string name="tituloDispositivos">Dispositivos</string>
+    <string name="nombreDevice">Nombre Dispositivo</string>
+    <string name="macDevice">MAC ADDRESS</string>
+    <string name="seleccionarDispositivos">Seleccionar Dispositivos</string>
+    <string name="estacionamiento">Estacionamiento</string>
+    <string name="registro">Registro Historico</string>
+    <string name="creditos">Creditos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hora">12:24:36</string>
+    <string name="fecha">11/10/1996</string>
+    <string name="horaTexto">Hora</string>
+    <string name="fechaTexto">Fecha</string>
+    <string name="timerTexto">Tiempo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="conectarbt">ConectarBt</string>
+    <string name="ordernar">Ordernar</string>
+    <string name="ordenar_por_tiempo">Ordenar por Tiempo</string>
+    <string name="ordenar_por_fecha">Ordenar por Fecha</string>
+    <string name="guardar_registro">Guardar Registro</string>
+    <string name="nombreMartin">Martín Andrés Galán</string>
+    <string name="nombreCharo">Charo Ares</string>
+    <string name="nombrePabba">Pedro Nicolas Abba</string>
+    <string name="descMartin">Creador, Programador, Codiseñador</string>
+    <string name="descCharo">Codiseñadora y asesora</string>
+    <string name="descPabba">Abbo</string>
+
+
+</resources>
